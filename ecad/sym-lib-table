@@ -1,4 +1,4 @@
 (sym_lib_table
-  (version 0)
-  (lib (name "Crazyradio-rescue")(type "Legacy")(uri "${KIPRJMOD}/Crazyradio-rescue.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "Crazyradio-rescue")(type "KiCad")(uri "${KIPRJMOD}/Crazyradio-rescue.kicad_sym")(options "")(descr ""))
 )
